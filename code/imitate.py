@@ -11,7 +11,7 @@ Modes
   baseline  no examples (shows what the data adds)
 
 API keys are read from environment variables, ~/.config/cognition.env or <project>/.env
-(KEY=VALUE per line, see .env.example). .env is git-ignored: never commit it.
+(KEY=VALUE per line, e.g. GROQ_API_KEY=...). .env is git-ignored: never commit it.
 
 Example data is read from data/ (your own, git-ignored); if a file is missing there,
 the tiny public sample in examples/ is used instead.

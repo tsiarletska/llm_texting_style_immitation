@@ -75,11 +75,12 @@ The policies were checked in November 2026, and they change. Re-check them befor
 The harness uses only the Python standard library.
 
 ```bash
-cp .env.example .env          # add keys for the providers you want
 python3 code/imitate.py --dry-run                     # print a prompt, no API calls
 python3 code/imitate.py --models claude-sonnet --runs 3
 python3 code/imitate.py --list-models gemini          # see what a key can access
 ```
+
+API keys go in a `.env` file in the project folder (git-ignored), one `KEY=value` per line, only for the providers you use: `GROQ_API_KEY`, `GEMINI_API_KEY`, `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `MISTRAL_API_KEY`, `MAMAY_API_KEY`.
 
 Models are configured in [`code/models.json`](code/models.json), and situations in [`code/scenarios.json`](code/scenarios.json). Each run writes `results/run_<time>/blind.csv` (replies only, for raters) and `key.csv` (which model wrote what).
 

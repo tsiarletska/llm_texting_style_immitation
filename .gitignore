@@ -3,7 +3,6 @@
 /*
 !/.gitignore
 !/README.md
-!/.env.example
 
 !/code/
 /code/*
@@ -23,6 +22,5 @@
 # Never, even if whitelisted above
 .env
 .env.*
-!.env.example
 __pycache__/
 *.pyc
