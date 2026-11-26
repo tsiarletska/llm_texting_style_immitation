@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="248" viewBox="0 0 720 248" role="img" aria-labelledby="t d"><title id="t">How much does it sound like me? Mean score by model</title><desc id="d">Gemini 3.5 Flash-Lite: 4.11 (n=56); Claude Sonnet 5.5: 4.00 (n=60); Claude Opus 5.5: 3.80 (n=60); MamayLM 27B: 3.47 (n=60); gpt-oss-120b: 3.20 (n=60)</desc><style>
+  text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #191919; }
+  .muted { fill: #666666; } .title { font-size: 15px; font-weight: 600; } .small { font-size: 11px; }
+  .axis { stroke: #d0d0d0; stroke-width: 1; } .grid { stroke: #e6e6e6; stroke-width: 1; }
+  .s1 { fill: #257de0; } .s1-stroke { stroke: #257de0; }
+  .neutral { fill: #a3a3a3; } .neutral-stroke { stroke: #a3a3a3; }
+  .s2 { fill: #f47230; }
+  .ring { stroke: #ffffff; }
+  @media (prefers-color-scheme: dark) {
+    text { fill: #efefef; } .muted { fill: #9c9c9c; }
+    .axis { stroke: #4a4a4a; } .grid { stroke: #333333; }
+    .s1 { fill: #338ced; } .s1-stroke { stroke: #338ced; }
+    .neutral { fill: #6b6b6b; } .neutral-stroke { stroke: #6b6b6b; }
+    .s2 { fill: #e76624; } .ring { stroke: #0d1117; }
+  }
+</style><text x="0" y="20" class="title">How much does it sound like me? Mean score by model</text><text x="0" y="40" class="muted small">296 replies rated blind on a 1-5 scale, both settings together</text><line x1="200.0" y1="58" x2="200.0" y2="214" class="grid"/><text x="200.0" y="232" class="muted small" text-anchor="middle">1</text><line x1="312.5" y1="58" x2="312.5" y2="214" class="grid"/><text x="312.5" y="232" class="muted small" text-anchor="middle">2</text><line x1="425.0" y1="58" x2="425.0" y2="214" class="grid"/><text x="425.0" y="232" class="muted small" text-anchor="middle">3</text><line x1="537.5" y1="58" x2="537.5" y2="214" class="grid"/><text x="537.5" y="232" class="muted small" text-anchor="middle">4</text><line x1="650.0" y1="58" x2="650.0" y2="214" class="grid"/><text x="650.0" y="232" class="muted small" text-anchor="middle">5</text><text x="190" y="79" text-anchor="end" font-size="13">Gemini 3.5 Flash-Lite</text><path d="M200,69 h345.6 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-345.6 z" class="s1"/><text x="557.6" y="79" font-size="13" font-weight="600">4.11</text><text x="190" y="109" text-anchor="end" font-size="13">Claude Sonnet 5.5</text><path d="M200,99 h333.5 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-333.5 z" class="s1"/><text x="545.5" y="109" font-size="13" font-weight="600">4.00</text><text x="190" y="139" text-anchor="end" font-size="13">Claude Opus 5.5</text><path d="M200,129 h311.0 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-311.0 z" class="s1"/><text x="523.0" y="139" font-size="13" font-weight="600">3.80</text><text x="190" y="169" text-anchor="end" font-size="13">MamayLM 27B</text><path d="M200,159 h273.5 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-273.5 z" class="s1"/><text x="485.5" y="169" font-size="13" font-weight="600">3.47</text><text x="190" y="199" text-anchor="end" font-size="13">gpt-oss-120b</text><path d="M200,189 h243.5 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-243.5 z" class="s1"/><text x="455.5" y="199" font-size="13" font-weight="600">3.20</text><line x1="200" y1="58" x2="200" y2="214" class="axis"/></svg>

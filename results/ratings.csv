@@ -1,0 +1,297 @@
+item_id,model,setting,scenario,score,could_be_real,emoji_in_reply,lines,words
+G0001,Gemini 3.5 Flash-Lite,examples,coffee_ua,5,yes,0,3,28
+G0002,Gemini 3.5 Flash-Lite,examples,coffee_ua,4,yes,0,3,29
+G0003,Gemini 3.5 Flash-Lite,baseline,coffee_ua,5,yes,0,3,12
+G0004,Gemini 3.5 Flash-Lite,baseline,coffee_ua,4,yes,0,3,8
+G0005,Gemini 3.5 Flash-Lite,baseline,coffee_ua,5,yes,0,3,14
+G0006,Gemini 3.5 Flash-Lite,examples,silly_ua,5,yes,0,3,11
+G0007,Gemini 3.5 Flash-Lite,examples,silly_ua,3,yes,0,4,23
+G0008,Gemini 3.5 Flash-Lite,baseline,silly_ua,3,maybe,0,3,8
+G0009,Gemini 3.5 Flash-Lite,baseline,silly_ua,3,maybe,0,3,10
+G0010,Gemini 3.5 Flash-Lite,examples,decline_ua,5,yes,0,3,25
+G0011,Gemini 3.5 Flash-Lite,examples,decline_ua,4,yes,0,3,21
+G0012,Gemini 3.5 Flash-Lite,examples,decline_ua,5,yes,0,2,10
+G0013,Gemini 3.5 Flash-Lite,baseline,decline_ua,3,maybe,0,3,11
+G0014,Gemini 3.5 Flash-Lite,baseline,decline_ua,5,yes,0,3,14
+G0015,Gemini 3.5 Flash-Lite,baseline,decline_ua,4,maybe,0,3,11
+G0016,Gemini 3.5 Flash-Lite,examples,stress_ua,5,yes,0,2,21
+G0017,Gemini 3.5 Flash-Lite,examples,stress_ua,5,yes,0,2,11
+G0018,Gemini 3.5 Flash-Lite,examples,stress_ua,5,yes,0,2,13
+G0019,Gemini 3.5 Flash-Lite,baseline,stress_ua,2,no,0,3,14
+G0020,Gemini 3.5 Flash-Lite,baseline,stress_ua,3,no,1,3,13
+G0021,Gemini 3.5 Flash-Lite,examples,teacher_ua,5,yes,0,1,9
+G0022,Gemini 3.5 Flash-Lite,examples,teacher_ua,5,yes,0,2,10
+G0023,Gemini 3.5 Flash-Lite,examples,teacher_ua,5,yes,0,2,9
+G0024,Gemini 3.5 Flash-Lite,baseline,teacher_ua,4,yes,0,2,7
+G0025,Gemini 3.5 Flash-Lite,baseline,teacher_ua,5,yes,0,2,8
+G0026,Gemini 3.5 Flash-Lite,baseline,teacher_ua,5,yes,0,2,9
+G0027,Gemini 3.5 Flash-Lite,examples,support_en,2,no,1,3,21
+G0028,Gemini 3.5 Flash-Lite,examples,support_en,3,maybe,0,2,8
+G0029,Gemini 3.5 Flash-Lite,examples,support_en,4,yes,1,3,24
+G0030,Gemini 3.5 Flash-Lite,baseline,support_en,5,yes,0,1,24
+G0031,Gemini 3.5 Flash-Lite,baseline,support_en,5,yes,0,3,26
+G0032,Gemini 3.5 Flash-Lite,baseline,support_en,4,yes,0,3,26
+G0033,Gemini 3.5 Flash-Lite,examples,heartbroken_ua,4,yes,1,4,21
+G0034,Gemini 3.5 Flash-Lite,examples,heartbroken_ua,5,yes,0,5,17
+G0035,Gemini 3.5 Flash-Lite,examples,heartbroken_ua,5,yes,0,4,19
+G0036,Gemini 3.5 Flash-Lite,baseline,heartbroken_ua,3,maybe,0,3,12
+G0037,Gemini 3.5 Flash-Lite,baseline,heartbroken_ua,2,no,0,5,21
+G0038,Gemini 3.5 Flash-Lite,baseline,heartbroken_ua,5,maybe,0,4,15
+G0039,Gemini 3.5 Flash-Lite,examples,series_ua,5,yes,0,3,10
+G0040,Gemini 3.5 Flash-Lite,examples,series_ua,5,yes,0,3,15
+G0041,Gemini 3.5 Flash-Lite,examples,series_ua,4,maybe,0,3,20
+G0042,Gemini 3.5 Flash-Lite,baseline,series_ua,4,yes,0,3,17
+G0043,Gemini 3.5 Flash-Lite,baseline,series_ua,3,maybe,0,2,14
+G0044,Gemini 3.5 Flash-Lite,baseline,series_ua,4,maybe,0,3,29
+G0045,Gemini 3.5 Flash-Lite,examples,cooking_ua,4,yes,0,3,21
+G0046,Gemini 3.5 Flash-Lite,examples,cooking_ua,5,yes,0,4,24
+G0047,Gemini 3.5 Flash-Lite,examples,cooking_ua,3,maybe,0,4,32
+G0048,Gemini 3.5 Flash-Lite,baseline,cooking_ua,4,maybe,0,3,21
+G0049,Gemini 3.5 Flash-Lite,baseline,cooking_ua,3,maybe,0,3,30
+G0050,Gemini 3.5 Flash-Lite,baseline,cooking_ua,4,yes,0,3,18
+G0051,Gemini 3.5 Flash-Lite,examples,exam_ua,3,maybe,0,3,11
+G0052,Gemini 3.5 Flash-Lite,examples,exam_ua,3,maybe,0,2,17
+G0053,Gemini 3.5 Flash-Lite,examples,exam_ua,5,yes,0,2,13
+G0054,Gemini 3.5 Flash-Lite,baseline,exam_ua,4,yes,0,3,9
+G0055,Gemini 3.5 Flash-Lite,baseline,exam_ua,3,maybe,0,3,11
+G0056,Gemini 3.5 Flash-Lite,baseline,exam_ua,5,yes,0,3,10
+O0001,Claude Opus 5.5,examples,coffee_ua,3,maybe,0,3,30
+O0002,Claude Opus 5.5,examples,coffee_ua,5,yes,0,3,15
+O0003,Claude Opus 5.5,examples,coffee_ua,5,yes,1,3,25
+O0004,Claude Opus 5.5,baseline,coffee_ua,4,yes,0,3,10
+O0005,Claude Opus 5.5,baseline,coffee_ua,4,yes,0,3,7
+O0006,Claude Opus 5.5,baseline,coffee_ua,5,yes,0,3,11
+O0007,Claude Opus 5.5,examples,silly_ua,3,maybe,1,4,21
+O0008,Claude Opus 5.5,examples,silly_ua,4,yes,0,4,19
+O0009,Claude Opus 5.5,examples,silly_ua,5,yes,0,3,6
+O0010,Claude Opus 5.5,baseline,silly_ua,4,maybe,0,3,11
+O0011,Claude Opus 5.5,baseline,silly_ua,5,yes,0,3,7
+O0012,Claude Opus 5.5,baseline,silly_ua,3,yes,1,3,13
+O0013,Claude Opus 5.5,examples,decline_ua,4,yes,0,3,23
+O0014,Claude Opus 5.5,examples,decline_ua,4,yes,0,5,32
+O0015,Claude Opus 5.5,examples,decline_ua,5,yes,0,4,25
+O0016,Claude Opus 5.5,baseline,decline_ua,4,yes,1,3,20
+O0017,Claude Opus 5.5,baseline,decline_ua,4,yes,1,3,22
+O0018,Claude Opus 5.5,baseline,decline_ua,1,no,1,3,22
+O0019,Claude Opus 5.5,examples,stress_ua,3,maybe,0,4,27
+O0020,Claude Opus 5.5,examples,stress_ua,4,yes,0,4,18
+O0021,Claude Opus 5.5,examples,stress_ua,4,yes,1,4,32
+O0022,Claude Opus 5.5,baseline,stress_ua,3,maybe,1,3,24
+O0023,Claude Opus 5.5,baseline,stress_ua,4,maybe,0,3,16
+O0024,Claude Opus 5.5,baseline,stress_ua,3,maybe,1,3,21
+O0025,Claude Opus 5.5,examples,teacher_ua,5,yes,0,2,8
+O0026,Claude Opus 5.5,examples,teacher_ua,5,yes,0,1,8
+O0027,Claude Opus 5.5,examples,teacher_ua,5,yes,0,1,8
+O0028,Claude Opus 5.5,baseline,teacher_ua,2,no,1,3,13
+O0029,Claude Opus 5.5,baseline,teacher_ua,2,no,1,3,10
+O0030,Claude Opus 5.5,baseline,teacher_ua,2,no,0,2,10
+O0031,Claude Opus 5.5,examples,support_en,4,maybe,0,3,28
+O0032,Claude Opus 5.5,examples,support_en,4,maybe,0,4,28
+O0033,Claude Opus 5.5,examples,support_en,3,maybe,0,3,27
+O0034,Claude Opus 5.5,baseline,support_en,4,yes,0,4,32
+O0035,Claude Opus 5.5,baseline,support_en,4,yes,0,4,33
+O0036,Claude Opus 5.5,baseline,support_en,4,yes,0,3,31
+O0037,Claude Opus 5.5,examples,heartbroken_ua,5,yes,0,5,41
+O0038,Claude Opus 5.5,examples,heartbroken_ua,4,yes,0,4,35
+O0039,Claude Opus 5.5,examples,heartbroken_ua,4,yes,0,6,58
+O0040,Claude Opus 5.5,baseline,heartbroken_ua,3,yes,0,5,36
+O0041,Claude Opus 5.5,baseline,heartbroken_ua,3,maybe,0,5,36
+O0042,Claude Opus 5.5,baseline,heartbroken_ua,4,maybe,0,4,33
+O0043,Claude Opus 5.5,examples,series_ua,4,yes,0,4,26
+O0044,Claude Opus 5.5,examples,series_ua,4,yes,0,4,22
+O0045,Claude Opus 5.5,examples,series_ua,3,maybe,0,4,28
+O0046,Claude Opus 5.5,baseline,series_ua,4,yes,0,3,20
+O0047,Claude Opus 5.5,baseline,series_ua,4,yes,0,4,25
+O0048,Claude Opus 5.5,baseline,series_ua,3,maybe,1,3,36
+O0049,Claude Opus 5.5,examples,cooking_ua,5,yes,0,4,33
+O0050,Claude Opus 5.5,examples,cooking_ua,3,maybe,0,5,48
+O0051,Claude Opus 5.5,examples,cooking_ua,3,maybe,0,5,36
+O0052,Claude Opus 5.5,baseline,cooking_ua,3,maybe,0,4,47
+O0053,Claude Opus 5.5,baseline,cooking_ua,4,yes,1,6,54
+O0054,Claude Opus 5.5,baseline,cooking_ua,4,yes,1,5,40
+O0055,Claude Opus 5.5,examples,exam_ua,4,yes,0,3,24
+O0056,Claude Opus 5.5,examples,exam_ua,5,yes,0,3,22
+O0057,Claude Opus 5.5,examples,exam_ua,5,yes,0,3,26
+O0058,Claude Opus 5.5,baseline,exam_ua,3,maybe,0,3,14
+O0059,Claude Opus 5.5,baseline,exam_ua,2,no,0,3,14
+O0060,Claude Opus 5.5,baseline,exam_ua,5,yes,0,3,15
+R0001,gpt-oss-120b,examples,coffee_ua,5,yes,1,3,17
+R0002,gpt-oss-120b,examples,coffee_ua,4,maybe,1,5,17
+R0003,gpt-oss-120b,examples,coffee_ua,4,yes,1,4,25
+R0004,gpt-oss-120b,baseline,coffee_ua,5,yes,0,1,7
+R0005,gpt-oss-120b,baseline,coffee_ua,5,yes,0,1,9
+R0006,gpt-oss-120b,baseline,coffee_ua,5,yes,0,1,9
+R0007,gpt-oss-120b,examples,silly_ua,2,no,1,4,21
+R0008,gpt-oss-120b,examples,silly_ua,3,maybe,1,5,17
+R0009,gpt-oss-120b,examples,silly_ua,1,no,1,7,41
+R0010,gpt-oss-120b,baseline,silly_ua,1,no,1,3,16
+R0011,gpt-oss-120b,baseline,silly_ua,2,no,1,3,22
+R0012,gpt-oss-120b,baseline,silly_ua,4,yes,1,1,8
+R0013,gpt-oss-120b,examples,decline_ua,4,yes,1,3,23
+R0014,gpt-oss-120b,examples,decline_ua,2,no,0,3,23
+R0015,gpt-oss-120b,examples,decline_ua,3,maybe,0,3,27
+R0016,gpt-oss-120b,baseline,decline_ua,3,maybe,0,1,4
+R0017,gpt-oss-120b,baseline,decline_ua,3,maybe,0,1,12
+R0018,gpt-oss-120b,baseline,decline_ua,4,yes,0,1,10
+R0019,gpt-oss-120b,examples,stress_ua,2,maybe,1,5,32
+R0020,gpt-oss-120b,examples,stress_ua,3,maybe,1,5,30
+R0021,gpt-oss-120b,examples,stress_ua,4,yes,1,5,37
+R0022,gpt-oss-120b,baseline,stress_ua,2,no,0,1,22
+R0023,gpt-oss-120b,baseline,stress_ua,4,yes,0,1,13
+R0024,gpt-oss-120b,baseline,stress_ua,2,no,0,1,16
+R0025,gpt-oss-120b,examples,teacher_ua,3,maybe,1,1,7
+R0026,gpt-oss-120b,examples,teacher_ua,1,no,1,3,18
+R0027,gpt-oss-120b,examples,teacher_ua,2,maybe,1,2,16
+R0028,gpt-oss-120b,baseline,teacher_ua,2,no,0,1,6
+R0029,gpt-oss-120b,baseline,teacher_ua,4,no,0,1,13
+R0030,gpt-oss-120b,baseline,teacher_ua,1,no,0,1,8
+R0031,gpt-oss-120b,examples,support_en,4,yes,1,4,47
+R0032,gpt-oss-120b,examples,support_en,1,no,0,2,15
+R0033,gpt-oss-120b,examples,support_en,2,no,1,4,25
+R0034,gpt-oss-120b,baseline,support_en,5,yes,0,1,47
+R0035,gpt-oss-120b,baseline,support_en,4,yes,0,1,55
+R0036,gpt-oss-120b,baseline,support_en,4,yes,0,1,39
+R0037,gpt-oss-120b,examples,heartbroken_ua,4,maybe,1,6,36
+R0038,gpt-oss-120b,examples,heartbroken_ua,3,no,1,6,51
+R0039,gpt-oss-120b,examples,heartbroken_ua,5,yes,0,5,32
+R0040,gpt-oss-120b,baseline,heartbroken_ua,4,maybe,1,1,33
+R0041,gpt-oss-120b,baseline,heartbroken_ua,3,maybe,0,1,26
+R0042,gpt-oss-120b,baseline,heartbroken_ua,5,yes,1,1,46
+R0043,gpt-oss-120b,examples,series_ua,3,maybe,1,3,24
+R0044,gpt-oss-120b,examples,series_ua,3,yes,0,4,25
+R0045,gpt-oss-120b,examples,series_ua,3,maybe,1,2,16
+R0046,gpt-oss-120b,baseline,series_ua,4,yes,1,1,14
+R0047,gpt-oss-120b,baseline,series_ua,3,maybe,0,3,26
+R0048,gpt-oss-120b,baseline,series_ua,2,no,1,4,32
+R0049,gpt-oss-120b,examples,cooking_ua,3,no,1,7,49
+R0050,gpt-oss-120b,examples,cooking_ua,4,yes,0,6,32
+R0051,gpt-oss-120b,examples,cooking_ua,4,maybe,0,5,39
+R0052,gpt-oss-120b,baseline,cooking_ua,4,maybe,0,1,33
+R0053,gpt-oss-120b,baseline,cooking_ua,1,no,0,1,34
+R0054,gpt-oss-120b,baseline,cooking_ua,1,no,0,1,26
+R0055,gpt-oss-120b,examples,exam_ua,2,no,0,1,18
+R0056,gpt-oss-120b,examples,exam_ua,5,yes,0,3,27
+R0057,gpt-oss-120b,examples,exam_ua,2,no,1,3,23
+R0058,gpt-oss-120b,baseline,exam_ua,4,maybe,0,1,12
+R0059,gpt-oss-120b,baseline,exam_ua,5,yes,0,1,8
+R0060,gpt-oss-120b,baseline,exam_ua,5,yes,0,1,9
+S0001,Claude Sonnet 5.5,examples,coffee_ua,5,yes,0,3,20
+S0002,Claude Sonnet 5.5,examples,coffee_ua,5,yes,0,3,22
+S0003,Claude Sonnet 5.5,examples,coffee_ua,5,yes,1,3,23
+S0004,Claude Sonnet 5.5,baseline,coffee_ua,5,yes,0,2,11
+S0005,Claude Sonnet 5.5,baseline,coffee_ua,5,yes,0,2,13
+S0006,Claude Sonnet 5.5,baseline,coffee_ua,5,yes,0,2,9
+S0007,Claude Sonnet 5.5,examples,silly_ua,4,yes,0,4,17
+S0008,Claude Sonnet 5.5,examples,silly_ua,5,yes,0,4,17
+S0009,Claude Sonnet 5.5,examples,silly_ua,4,maybe,0,4,18
+S0010,Claude Sonnet 5.5,baseline,silly_ua,4,maybe,1,2,9
+S0011,Claude Sonnet 5.5,baseline,silly_ua,3,maybe,0,2,13
+S0012,Claude Sonnet 5.5,baseline,silly_ua,4,yes,1,2,14
+S0013,Claude Sonnet 5.5,examples,decline_ua,4,yes,0,3,31
+S0014,Claude Sonnet 5.5,examples,decline_ua,3,maybe,0,4,28
+S0015,Claude Sonnet 5.5,examples,decline_ua,4,maybe,0,4,22
+S0016,Claude Sonnet 5.5,baseline,decline_ua,4,yes,0,3,23
+S0017,Claude Sonnet 5.5,baseline,decline_ua,3,maybe,0,3,21
+S0018,Claude Sonnet 5.5,baseline,decline_ua,2,no,0,3,19
+S0019,Claude Sonnet 5.5,examples,stress_ua,4,yes,0,3,18
+S0020,Claude Sonnet 5.5,examples,stress_ua,4,maybe,0,4,28
+S0021,Claude Sonnet 5.5,examples,stress_ua,4,yes,0,4,19
+S0022,Claude Sonnet 5.5,baseline,stress_ua,3,no,1,3,18
+S0023,Claude Sonnet 5.5,baseline,stress_ua,5,yes,1,4,22
+S0024,Claude Sonnet 5.5,baseline,stress_ua,5,yes,1,3,23
+S0025,Claude Sonnet 5.5,examples,teacher_ua,5,yes,0,2,8
+S0026,Claude Sonnet 5.5,examples,teacher_ua,3,maybe,0,2,10
+S0027,Claude Sonnet 5.5,examples,teacher_ua,5,yes,0,2,8
+S0028,Claude Sonnet 5.5,baseline,teacher_ua,5,yes,0,1,7
+S0029,Claude Sonnet 5.5,baseline,teacher_ua,5,yes,0,1,7
+S0030,Claude Sonnet 5.5,baseline,teacher_ua,5,yes,0,1,8
+S0031,Claude Sonnet 5.5,examples,support_en,4,maybe,1,3,37
+S0032,Claude Sonnet 5.5,examples,support_en,4,maybe,0,4,38
+S0033,Claude Sonnet 5.5,examples,support_en,3,maybe,0,3,38
+S0034,Claude Sonnet 5.5,baseline,support_en,4,yes,0,3,41
+S0035,Claude Sonnet 5.5,baseline,support_en,4,yes,0,3,40
+S0036,Claude Sonnet 5.5,baseline,support_en,4,maybe,0,3,40
+S0037,Claude Sonnet 5.5,examples,heartbroken_ua,4,yes,0,3,28
+S0038,Claude Sonnet 5.5,examples,heartbroken_ua,4,yes,0,4,38
+S0039,Claude Sonnet 5.5,examples,heartbroken_ua,4,maybe,0,5,32
+S0040,Claude Sonnet 5.5,baseline,heartbroken_ua,3,maybe,1,3,19
+S0041,Claude Sonnet 5.5,baseline,heartbroken_ua,4,maybe,0,3,16
+S0042,Claude Sonnet 5.5,baseline,heartbroken_ua,4,yes,1,4,37
+S0043,Claude Sonnet 5.5,examples,series_ua,4,yes,0,3,23
+S0044,Claude Sonnet 5.5,examples,series_ua,4,yes,0,3,28
+S0045,Claude Sonnet 5.5,examples,series_ua,3,maybe,0,4,29
+S0046,Claude Sonnet 5.5,baseline,series_ua,2,no,0,3,28
+S0047,Claude Sonnet 5.5,baseline,series_ua,4,yes,1,3,25
+S0048,Claude Sonnet 5.5,baseline,series_ua,4,yes,1,3,25
+S0049,Claude Sonnet 5.5,examples,cooking_ua,3,maybe,0,5,54
+S0050,Claude Sonnet 5.5,examples,cooking_ua,3,maybe,0,4,35
+S0051,Claude Sonnet 5.5,examples,cooking_ua,5,yes,0,5,40
+S0052,Claude Sonnet 5.5,baseline,cooking_ua,2,no,1,3,39
+S0053,Claude Sonnet 5.5,baseline,cooking_ua,1,no,1,6,64
+S0054,Claude Sonnet 5.5,baseline,cooking_ua,3,maybe,0,5,43
+S0055,Claude Sonnet 5.5,examples,exam_ua,5,yes,0,3,25
+S0056,Claude Sonnet 5.5,examples,exam_ua,4,maybe,0,3,24
+S0057,Claude Sonnet 5.5,examples,exam_ua,5,yes,0,4,28
+S0058,Claude Sonnet 5.5,baseline,exam_ua,5,yes,0,3,18
+S0059,Claude Sonnet 5.5,baseline,exam_ua,5,yes,0,2,14
+S0060,Claude Sonnet 5.5,baseline,exam_ua,5,yes,0,2,15
+Y0001,MamayLM 27B,examples,coffee_ua,3,maybe,0,4,26
+Y0002,MamayLM 27B,examples,coffee_ua,4,yes,0,2,5
+Y0003,MamayLM 27B,examples,coffee_ua,4,maybe,0,3,21
+Y0004,MamayLM 27B,baseline,coffee_ua,5,yes,0,3,18
+Y0005,MamayLM 27B,baseline,coffee_ua,5,yes,0,1,2
+Y0006,MamayLM 27B,baseline,coffee_ua,5,yes,0,1,3
+Y0007,MamayLM 27B,examples,silly_ua,1,no,0,10,40
+Y0008,MamayLM 27B,examples,silly_ua,2,maybe,0,69,195
+Y0009,MamayLM 27B,examples,silly_ua,4,maybe,0,20,78
+Y0010,MamayLM 27B,baseline,silly_ua,3,maybe,0,5,18
+Y0011,MamayLM 27B,baseline,silly_ua,5,yes,0,3,5
+Y0012,MamayLM 27B,baseline,silly_ua,4,yes,0,3,16
+Y0013,MamayLM 27B,examples,decline_ua,4,maybe,0,21,104
+Y0014,MamayLM 27B,examples,decline_ua,2,maybe,0,4,24
+Y0015,MamayLM 27B,examples,decline_ua,2,maybe,0,8,85
+Y0016,MamayLM 27B,baseline,decline_ua,4,maybe,0,3,23
+Y0017,MamayLM 27B,baseline,decline_ua,5,yes,0,5,23
+Y0018,MamayLM 27B,baseline,decline_ua,5,yes,0,1,9
+Y0019,MamayLM 27B,examples,stress_ua,5,yes,0,16,115
+Y0020,MamayLM 27B,examples,stress_ua,1,no,0,76,230
+Y0021,MamayLM 27B,examples,stress_ua,2,no,0,29,161
+Y0022,MamayLM 27B,baseline,stress_ua,3,maybe,1,2,20
+Y0023,MamayLM 27B,baseline,stress_ua,2,no,1,1,25
+Y0024,MamayLM 27B,baseline,stress_ua,4,yes,0,3,13
+Y0025,MamayLM 27B,examples,teacher_ua,1,no,0,9,51
+Y0026,MamayLM 27B,examples,teacher_ua,2,maybe,0,1,7
+Y0027,MamayLM 27B,examples,teacher_ua,1,no,0,1,16
+Y0028,MamayLM 27B,baseline,teacher_ua,1,no,1,2,6
+Y0029,MamayLM 27B,baseline,teacher_ua,3,maybe,0,2,9
+Y0030,MamayLM 27B,baseline,teacher_ua,4,yes,0,2,10
+Y0031,MamayLM 27B,examples,support_en,4,yes,0,4,45
+Y0032,MamayLM 27B,examples,support_en,3,maybe,0,5,69
+Y0033,MamayLM 27B,examples,support_en,2,no,1,44,245
+Y0034,MamayLM 27B,baseline,support_en,4,maybe,0,12,85
+Y0035,MamayLM 27B,baseline,support_en,4,maybe,0,5,38
+Y0036,MamayLM 27B,baseline,support_en,5,yes,1,4,31
+Y0037,MamayLM 27B,examples,heartbroken_ua,5,yes,0,24,110
+Y0038,MamayLM 27B,examples,heartbroken_ua,5,yes,0,4,29
+Y0039,MamayLM 27B,examples,heartbroken_ua,4,maybe,0,43,332
+Y0040,MamayLM 27B,baseline,heartbroken_ua,5,yes,0,4,29
+Y0041,MamayLM 27B,baseline,heartbroken_ua,4,yes,0,8,33
+Y0042,MamayLM 27B,baseline,heartbroken_ua,5,yes,0,10,91
+Y0043,MamayLM 27B,examples,series_ua,3,maybe,0,7,63
+Y0044,MamayLM 27B,examples,series_ua,5,yes,0,7,70
+Y0045,MamayLM 27B,examples,series_ua,3,maybe,1,4,27
+Y0046,MamayLM 27B,baseline,series_ua,4,yes,0,3,29
+Y0047,MamayLM 27B,baseline,series_ua,1,no,0,3,15
+Y0048,MamayLM 27B,baseline,series_ua,3,maybe,1,3,16
+Y0049,MamayLM 27B,examples,cooking_ua,3,maybe,0,6,132
+Y0050,MamayLM 27B,examples,cooking_ua,2,maybe,1,57,287
+Y0051,MamayLM 27B,examples,cooking_ua,3,maybe,0,11,97
+Y0052,MamayLM 27B,baseline,cooking_ua,4,yes,0,2,23
+Y0053,MamayLM 27B,baseline,cooking_ua,3,yes,0,4,39
+Y0054,MamayLM 27B,baseline,cooking_ua,4,yes,0,3,20
+Y0055,MamayLM 27B,examples,exam_ua,5,yes,0,5,31
+Y0056,MamayLM 27B,examples,exam_ua,4,maybe,0,2,24
+Y0057,MamayLM 27B,examples,exam_ua,4,yes,0,1,22
+Y0058,MamayLM 27B,baseline,exam_ua,4,maybe,0,3,16
+Y0059,MamayLM 27B,baseline,exam_ua,4,yes,0,1,6
+Y0060,MamayLM 27B,baseline,exam_ua,3,maybe,1,2,7

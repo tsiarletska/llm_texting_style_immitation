@@ -1,0 +1,90 @@
+{
+  "temperature": 0.9,
+  "max_tokens": 300,
+  "models": [
+    {
+      "name": "groq-gpt-oss-120b",
+      "provider": "groq",
+      "model": "openai/gpt-oss-120b",
+      "enabled": true,
+      "max_tokens": 1500,
+      "extra": {
+        "reasoning_effort": "low"
+      }
+    },
+    {
+      "name": "groq-gpt-oss-20b",
+      "provider": "groq",
+      "model": "openai/gpt-oss-20b",
+      "enabled": true,
+      "max_tokens": 1500,
+      "extra": {
+        "reasoning_effort": "low"
+      }
+    },
+    {
+      "name": "groq-qwen-27b",
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b",
+      "enabled": true
+    },
+    {
+      "name": "mamay-27b",
+      "provider": "mamay",
+      "model": "mamay-27b-v2-it-ukr-fp8",
+      "enabled": false,
+      "max_tokens": 600,
+      "sleep": 3.2
+    },
+    {
+      "name": "mamaylm-12b-runpod",
+      "provider": "runpod",
+      "model": "mamaylm-12b",
+      "enabled": false,
+      "max_tokens": 600
+    },
+    {
+      "name": "groq-allam-7b",
+      "provider": "groq",
+      "model": "allam-2-7b",
+      "enabled": false
+    },
+    {
+      "name": "claude-sonnet",
+      "provider": "anthropic",
+      "model": "claude-sonnet-5-5",
+      "enabled": false
+    },
+    {
+      "name": "claude-opus",
+      "provider": "anthropic",
+      "model": "claude-opus-5-5",
+      "enabled": false
+    },
+    {
+      "name": "gemini",
+      "provider": "gemini",
+      "model": "FILL_ME",
+      "enabled": false
+    },
+    {
+      "name": "openai-gpt",
+      "provider": "openai",
+      "model": "FILL_ME",
+      "enabled": false
+    },
+    {
+      "name": "mistral",
+      "provider": "mistral",
+      "model": "FILL_ME",
+      "enabled": false
+    },
+    {
+      "name": "gemini-3.5-flash-lite",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite",
+      "enabled": false,
+      "max_tokens": 1500
+    }
+  ]
+}

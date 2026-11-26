@@ -1,0 +1,6 @@
+thread,seq,year,lang,speaker,replying_after_other,text,register
+T00,1,2025,UA,O,1,о ну супер,casual
+T00,2,2025,UA,O,1,"ооо клас, прекрасного відпочинку!",banter
+T00,3,2025,UA,O,0,шось мені це нагадує,banter
+T00,4,2025,EN,O,1,Hahah ye,casual
+T00,5,2025,EN,O,1,That's for real -_-,banter

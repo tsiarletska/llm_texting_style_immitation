@@ -1,0 +1,28 @@
+# Whitelist: ignore everything, then allow only the public files.
+# Private material (data/, raw_private/, course/, docs/, results/run_*, .env) stays out by default.
+/*
+!/.gitignore
+!/README.md
+!/.env.example
+
+!/code/
+/code/*
+!/code/imitate.py
+!/code/models.json
+!/code/scenarios.json
+!/code/make_charts.py
+!/code/sample_instagram.py
+
+!/examples/
+!/assets/
+
+!/results/
+/results/*
+!/results/ratings.csv
+
+# Never, even if whitelisted above
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc

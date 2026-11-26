@@ -1,0 +1,210 @@
+[
+ {
+  "id": "coffee_ua",
+  "tag": "neutral invitation",
+  "lang": "UA",
+  "situation": "A friend invites O. to meet up",
+  "incoming": "Привіт! Хочеш зустрітись наступної суботи на каву?",
+  "rating_set": true
+ },
+ {
+  "id": "coffee_en",
+  "tag": "neutral invitation",
+  "lang": "EN",
+  "situation": "A friend invites O. to meet up",
+  "incoming": "Hey, would you want to meet up next Saturday for a coffee?",
+  "rating_set": false
+ },
+ {
+  "id": "silly_ua",
+  "tag": "silly banter",
+  "lang": "UA",
+  "situation": "Close friend sends a silly message",
+  "incoming": "я щойно спробувала зварити борщ у мікрохвильовці. не раджу",
+  "rating_set": true
+ },
+ {
+  "id": "silly_en",
+  "tag": "silly banter",
+  "lang": "EN",
+  "situation": "Close friend sends a silly message",
+  "incoming": "i named my houseplant after my ex and it is thriving, what does this say about me",
+  "rating_set": false
+ },
+ {
+  "id": "decline_ua",
+  "tag": "refusal",
+  "lang": "UA",
+  "situation": "Friend pushes O. to come to a party; O. does not want to go",
+  "incoming": "Ти ж завтра йдеш на вечірку? Всі будуть, без тебе не цікаво!",
+  "rating_set": true
+ },
+ {
+  "id": "late_ua",
+  "tag": "apology",
+  "lang": "UA",
+  "situation": "Friend is teasing O. for not replying for days",
+  "incoming": "ти взагалі жива?? три дні мовчиш)",
+  "rating_set": false
+ },
+ {
+  "id": "cancel_ua",
+  "tag": "cancelled plans",
+  "lang": "UA",
+  "situation": "Friend cancels plans at the last minute",
+  "incoming": "слухай, я сьогодні не зможу прийти, вибач(",
+  "rating_set": false
+ },
+ {
+  "id": "stress_ua",
+  "tag": "emotional support",
+  "lang": "UA",
+  "situation": "Friend is exhausted and stressed",
+  "incoming": "я так втомилась від цього тижня, ледве тримаюсь",
+  "rating_set": true
+ },
+ {
+  "id": "excited_ua",
+  "tag": "excitement",
+  "lang": "UA",
+  "situation": "Friend shares great news",
+  "incoming": "МЕНЕ ВЗЯЛИ НА СТАЖУВАННЯ!!!",
+  "rating_set": false
+ },
+ {
+  "id": "pizza_en",
+  "tag": "playful disagreement",
+  "lang": "EN",
+  "situation": "Friend defends an opinion O. finds silly",
+  "incoming": "pineapple on pizza is the best thing ever and you cannot change my mind",
+  "rating_set": false
+ },
+ {
+  "id": "favor_ua",
+  "tag": "small favour",
+  "lang": "UA",
+  "situation": "Classmate asks for a small favour",
+  "incoming": "Можеш мені позичити зарядку до завтра?",
+  "rating_set": false
+ },
+ {
+  "id": "colleague_en",
+  "tag": "work logistics",
+  "lang": "EN",
+  "situation": "Colleague wants to reschedule a call",
+  "incoming": "Can we move tomorrow's call to 3pm? Something came up.",
+  "rating_set": false
+ },
+ {
+  "id": "teacher_ua",
+  "tag": "formal",
+  "lang": "UA",
+  "situation": "A lecturer writes to O. about a deadline",
+  "incoming": "Добрий день! Чи зможете надіслати завдання до п'ятниці?",
+  "rating_set": true
+ },
+ {
+  "id": "support_en",
+  "tag": "customer support",
+  "lang": "EN",
+  "situation": "Support agent asks O. for details of a problem",
+  "incoming": "Could you describe the problem in a bit more detail, please?",
+  "rating_set": true
+ },
+ {
+  "id": "recruiter_en",
+  "tag": "outreach",
+  "lang": "EN",
+  "situation": "A recruiter writes to O. about an opening",
+  "incoming": "Hi! We have an open role that may be a good fit. Are you open to a short call this week?",
+  "rating_set": false
+ },
+ {
+  "id": "compliment_ua",
+  "tag": "warm small talk",
+  "lang": "UA",
+  "situation": "Friend sends a compliment",
+  "incoming": "ти сьогодні така класна на фото)",
+  "rating_set": false
+ },
+ {
+  "id": "roast_ua",
+  "tag": "silly banter",
+  "lang": "UA",
+  "situation": "Close friend jokingly roasts O.",
+  "incoming": "твій музичний смак це якийсь злочин, чесно",
+  "rating_set": false
+ },
+ {
+  "id": "heartbroken_ua",
+  "tag": "emotional support",
+  "lang": "UA",
+  "situation": "Close friend is upset after a breakup",
+  "incoming": "він написав що не готовий до стосунків. я просто не знаю що робити",
+  "rating_set": true
+ },
+ {
+  "id": "angry_ua",
+  "tag": "emotional support",
+  "lang": "UA",
+  "situation": "Friend is furious about a colleague",
+  "incoming": "мене так бісить колега, знову все на мене скинули!!",
+  "rating_set": false
+ },
+ {
+  "id": "cover_ua",
+  "tag": "refusal",
+  "lang": "UA",
+  "situation": "Colleague asks O. to cover a shift; O. cannot",
+  "incoming": "Можеш підмінити мене в п'ятницю? Дуже треба",
+  "rating_set": false
+ },
+ {
+  "id": "series_ua",
+  "tag": "playful disagreement",
+  "lang": "UA",
+  "situation": "Friend disagrees about a TV series",
+  "incoming": "серіал був нудний, а ти його просто переоцінюєш",
+  "rating_set": true
+ },
+ {
+  "id": "landlord_ua",
+  "tag": "formal",
+  "lang": "UA",
+  "situation": "Landlord sends a polite reminder",
+  "incoming": "Добрий день! Хотіла нагадати про оплату за квартиру до п'ятого числа.",
+  "rating_set": false
+ },
+ {
+  "id": "short_ua",
+  "tag": "short answer",
+  "lang": "UA",
+  "situation": "Friend asks a quick yes/no question",
+  "incoming": "ти вдома?",
+  "rating_set": false
+ },
+ {
+  "id": "cooking_ua",
+  "tag": "out of distribution",
+  "lang": "UA",
+  "situation": "Friend asks for cooking advice, a topic not in the data",
+  "incoming": "підкажи простий рецепт на вечерю, у мене тільки гречка і яйця",
+  "rating_set": true
+ },
+ {
+  "id": "exam_ua",
+  "tag": "in-distribution control",
+  "lang": "UA",
+  "situation": "Coursemate asks about an exam",
+  "incoming": "Привіт! Ти вже знаєш коли екзамен?",
+  "rating_set": true
+ },
+ {
+  "id": "email_en",
+  "tag": "in-distribution control",
+  "lang": "EN",
+  "situation": "Organiser asks whether an e-mail arrived",
+  "incoming": "Hi! Did you receive the email I sent yesterday?",
+  "rating_set": false
+ }
+]
